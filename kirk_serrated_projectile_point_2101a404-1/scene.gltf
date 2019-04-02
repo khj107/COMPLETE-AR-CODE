@@ -1,0 +1,350 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.096758000552654266,
+        3.736530065536499,
+        0.14346800744533539
+      ],
+      "min": [
+        -0.15166300535202026,
+        3.6206479072570801,
+        -0.333840012550354
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99980545043945312,
+        0.99999910593032837,
+        0.98736733198165894
+      ],
+      "min": [
+        -0.99978411197662354,
+        -0.99999433755874634,
+        -0.99944776296615601
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9880824089050293,
+        0.99902182817459106,
+        0.99986863136291504,
+        1
+      ],
+      "min": [
+        -0.99990761280059814,
+        -0.99916499853134155,
+        -0.99984711408615112,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.98597598075866699,
+        0.99602997303009033
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 372894,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 31698,
+      "max": [
+        0.10809600353240967,
+        3.7436809539794922,
+        0.22936500608921051
+      ],
+      "min": [
+        -0.15156799554824829,
+        3.6585490703582764,
+        0.001373999984934926
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1953144,
+      "componentType": 5126,
+      "count": 31698,
+      "max": [
+        0.9999813437461853,
+        0.99999910593032837,
+        0.99998074769973755
+      ],
+      "min": [
+        -0.99979490041732788,
+        -0.99990677833557129,
+        -0.82754886150360107
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 31698,
+      "max": [
+        0.98264282941818237,
+        0.99878710508346558,
+        0.9984859824180603,
+        1
+      ],
+      "min": [
+        -0.99999308586120605,
+        -0.99991273880004883,
+        -0.99698328971862793,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 31698,
+      "max": [
+        0.98249202966690063,
+        1
+      ],
+      "min": [
+        0.061183001846075058,
+        0.0087289996445178986
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1491576,
+      "componentType": 5125,
+      "count": 167106,
+      "max": [
+        31697
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "RLA Archaeology (https://sketchfab.com/rla-archaeology)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/kirk-serrated-projectile-point-2101a404-1-7b0aaabb6efb4c729a3a46d353bf74f9",
+      "title": "Kirk Serrated Projectile Point (2101a404-1)"
+    },
+    "generator": "Sketchfab-4.81.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2160000,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 777840,
+      "byteOffset": 2160000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2333520,
+      "byteOffset": 2937840,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1555680,
+      "byteOffset": 5271360,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6827040,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/St4_Kirk_Serrated_PPt_2101a_specimen_1_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "St4_Kirk_Serrated_PPt_2101a_specimen_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.99654519557952881,
+        0.080520033836364746,
+        0.02035229466855526,
+        0,
+        0.082840971648693085,
+        -0.98117327690124512,
+        -0.17446012794971466,
+        0,
+        0.0059215924702584743,
+        0.175543412566185,
+        -0.98445385694503784,
+        0,
+        -0.30480018258094788,
+        7.305933952331543,
+        0.53917241096496582,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "St4_Kirk_Serrated_PPt_(2101a,_specimen_1).obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
