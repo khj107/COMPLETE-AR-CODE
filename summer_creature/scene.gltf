@@ -1,0 +1,554 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        83.436080932617188,
+        83.436080932617188,
+        83.436080932617188
+      ],
+      "min": [
+        -83.436080932617188,
+        -83.436080932617188,
+        -83.436080932617188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 720,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        0.93417245149612427,
+        0.93417245149612427,
+        0.93417245149612427
+      ],
+      "min": [
+        -0.93417245149612427,
+        -0.93417245149612427,
+        -0.93417245149612427
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        1,
+        0.80901700258255005,
+        0.80901700258255005,
+        1
+      ],
+      "min": [
+        -1,
+        -0.80667543411254883,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 60,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0.13400006294250488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 60,
+      "max": [
+        59
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1440,
+      "componentType": 5126,
+      "count": 19215,
+      "max": [
+        89.501045227050781,
+        89.501045227050781,
+        89.501045227050781
+      ],
+      "min": [
+        -89.501045227050781,
+        -89.501045227050781,
+        -89.501045227050781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 232020,
+      "componentType": 5126,
+      "count": 19215,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 960,
+      "componentType": 5126,
+      "count": 19215,
+      "max": [
+        1,
+        0.99999105930328369,
+        0.99999105930328369,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999105930328369,
+        -0.99995368719100952,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 19215,
+      "max": [
+        1.1758866310119629,
+        1.2515175342559814
+      ],
+      "min": [
+        -0.29449960589408875,
+        -0.26477146148681641
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 240,
+      "componentType": 5125,
+      "count": 35496,
+      "max": [
+        19214
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 462600,
+      "componentType": 5126,
+      "count": 7856,
+      "max": [
+        34.794849395751953,
+        18.536699295043945,
+        34.794849395751953
+      ],
+      "min": [
+        -34.794849395751953,
+        -60.635318756103516,
+        -34.794849395751953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 556872,
+      "componentType": 5126,
+      "count": 7856,
+      "max": [
+        0.99956172704696655,
+        0.73646950721740723,
+        0.99956172704696655
+      ],
+      "min": [
+        -0.99956172704696655,
+        -0.73723632097244263,
+        -0.99956172704696655
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 308400,
+      "componentType": 5126,
+      "count": 7856,
+      "max": [
+        0.99999833106994629,
+        0.67547887563705444,
+        0.99999833106994629,
+        1
+      ],
+      "min": [
+        -0.99999833106994629,
+        -0.67547893524169922,
+        -0.99923551082611084,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 154200,
+      "componentType": 5126,
+      "count": 7856,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 142224,
+      "componentType": 5125,
+      "count": 21168,
+      "max": [
+        7855
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tumblindwnagain (https://sketchfab.com/tumblindwnagain)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/summer-creature-ae8c7840086b4a8fb76b2312fef98306",
+      "title": "Summer Creature"
+    },
+    "generator": "Sketchfab-5.3.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 226896,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 217048,
+      "byteOffset": 226896,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 651144,
+      "byteOffset": 443944,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 434096,
+      "byteOffset": 1095088,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1529184,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "GlassShape",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000000000000004,
+          0.80000000000000004,
+          0.80000000000000004,
+          0.032202743899999997
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Metal_RimsShape",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.18272736389999999,
+          0.075023754100000006,
+          0.0136502182,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.080983231700000005
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "CreatureShape",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.93098142449999999,
+          0.12609192329999999,
+          0.18477574359999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GlassShape_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Metal_RimsShape_4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "CreatureShape_6_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "7bf151b312f24b9c9ba23a72ac5c8173.abc.cleaner.materialmerger.gles"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        5,
+        9,
+        13
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "TimeframeMainGroup"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "GlassShape_2_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "TimeframeMainGroup"
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": "Metal_RimsShape_4_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        0.78095744165637049,
+        0.62208222796141377,
+        -0.055849583490839641,
+        0,
+        0.62458424117290745,
+        -0.77782901508287927,
+        0.069832291768645041,
+        0,
+        1.1276213678079738e-09,
+        -0.089418817649091278,
+        -0.99599411396365123,
+        0,
+        18.09623908996582,
+        -40.940406799316406,
+        3.6755666732788086,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "TimeframeMainGroup"
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": "CreatureShape_6_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
